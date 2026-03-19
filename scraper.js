@@ -9,7 +9,12 @@ const HOTELS_FILE = 'hotels.json';
 
 const AGENCY_RULES = [
   { pattern: '103810219', name: 'PENINSULA' },
-  { pattern: '103816',    name: 'AKAY(FIT)' },
+  { pattern: '103810221', name: 'PENINSULA' },
+  { pattern: '103810183', name: 'AKAY(FIT)' },
+  { pattern: '103816595', name: 'AKAY(FIT)' },
+  { pattern: '103817065', name: 'AKAY(FIT)' },
+  { pattern: '103810246', name: 'LUX VACATION' },
+  { pattern: '103817059', name: 'BILINMEYEN' },
   { pattern: '103810175', name: 'SUMMER' },
   { pattern: '103810222', name: 'CARTHAGE' },
   { pattern: '103825',    name: 'KILIT GLOBAL' },
@@ -25,21 +30,17 @@ function loadHotels() {
 function generateDates() {
   const dates = [];
   const now = new Date();
-  const firstDate = new Date(now);
-  firstDate.setDate(firstDate.getDate() + 5);
+  const year = now.getFullYear();
+  const fmt = n => String(n).padStart(2, '0');
 
-  // Mart içindeyse Nisan 15'e atla
-  if (firstDate.getMonth() === 2) {
-    firstDate.setMonth(3);
-    firstDate.setDate(15);
-  }
+  // Sabit aylar: Mayıs(4), Haziran(5), Temmuz(6), Ağustos(7) — JS'de ay 0'dan başlar
+  const MONTHS = [4, 5, 6, 7];
 
-  for (let m = 0; m < 4; m++) {
-    const d = m === 0
-      ? new Date(firstDate)
-      : new Date(firstDate.getFullYear(), firstDate.getMonth() + m, 15);
+  for (const month of MONTHS) {
+    // O ayın 15'i, geçmişte kalmışsa atlıyoruz
+    const d = new Date(year, month, 15);
+    if (d < now) continue;
 
-    const fmt = n => String(n).padStart(2, '0');
     const checkIn  = `${fmt(d.getDate())}.${fmt(d.getMonth()+1)}.${d.getFullYear()}`;
     const out = new Date(d);
     out.setDate(out.getDate() + 7);
