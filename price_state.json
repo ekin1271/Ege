@@ -160,7 +160,7 @@
   "15.05.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
   "15.05.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "15.05.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind",
-  "15.05.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "behind",
+  "15.05.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.05.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "15.05.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "ahead",
   "15.05.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "ahead",
@@ -317,7 +317,7 @@
   "15.06.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
   "15.06.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "15.06.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind",
-  "15.06.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "behind",
+  "15.06.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.06.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "15.06.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "ahead",
   "15.06.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "ahead",
@@ -466,7 +466,7 @@
   "15.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
   "15.07.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "15.07.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind",
-  "15.07.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "behind",
+  "15.07.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.07.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "15.07.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "ahead",
   "15.07.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "ahead",
@@ -793,5 +793,10 @@
   "20.08.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOбез питания": "alone",
   "20.08.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.08.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.08.2026__Orsmaris Hotel Boutique__STANDART POOL GARDEN ROOM BBзавтраки": "behind"
+  "20.08.2026__Orsmaris Hotel Boutique__STANDART POOL GARDEN ROOM BBзавтраки": "behind",
+  "20.06.2026__Yunus Hotel 3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
+  "20.06.2026__Quadas Hotel (ex.Fantasia Hotel Marmaris) (only adults 16+) 4*__STANDARD ROOM BB BBзавтраки": "alone",
+  "20.07.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIвсе включено": "alone",
+  "20.08.2026__Ng Sign Bodrum 5*__INFINITY VILLA BBзавтраки": "ahead",
+  "20.08.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIвсе включено": "alone"
 }
