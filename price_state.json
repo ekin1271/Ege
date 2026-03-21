@@ -532,7 +532,7 @@
   "20.05.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLвсе включено": "ahead",
   "15.06.2026__Akra Didim 5*__ADULT DELUXE SEA VIEW ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBзавтраки": "behind",
-  "20.06.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBзавтраки": "behind",
+  "20.06.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBзавтраки": "ahead",
   "15.07.2026__Akra Didim 5*__DELUXE GARDEN VIEW WITH JACUZZI ULTRA ALLвсе включено": "behind",
   "15.08.2026__Hillstone Bodrum & Spa 5*__DELUXE GARDEN VIEW ROOM BBзавтраки": "alone",
   "15.08.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOбез питания": "alone",
@@ -954,5 +954,12 @@
   "20.06.2026__Oludeniz Turquoise Hotel 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "ahead",
   "20.08.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.08.2026__Portofino Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.08.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIвсе включено": "ahead"
+  "20.08.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIвсе включено": "ahead",
+  "20.06.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBзавтраки": "ahead",
+  "20.06.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
+  "20.06.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.06.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLвсе включено": "ahead",
+  "20.06.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead"
 }
