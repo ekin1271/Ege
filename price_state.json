@@ -774,7 +774,7 @@
   "20.06.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
   "20.06.2026__Golmar Beach Hotel 4*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "alone",
   "20.07.2026__Ambrosia Hotel 5*__STANDARD ROOM BBзавтраки": "ahead",
-  "20.07.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBзавтраки и ужины": "behind",
+  "20.07.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBзавтраки и ужины": "ahead",
   "20.07.2026__Akra Didim 5*__DELUXE SEA VIEW ROOM ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "20.07.2026__Symbola Oludeniz Beach 3*__STONE LAND VIEW ROOM HB HBзавтраки и ужины": "ahead",
@@ -961,5 +961,17 @@
   "20.06.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
-  "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead"
+  "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
+  "20.06.2026__Idas Club 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.06.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIвсе включено": "ahead",
+  "20.07.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
+  "20.07.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIвсе включено": "ahead",
+  "20.07.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
+  "20.07.2026__Ladonia Hotels Luna Beach Resort 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
+  "20.08.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
+  "20.08.2026__Risa 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Avantgarde Refined Yalıkavak Special Class -*__DELUXE ROOM BBзавтраки": "behind",
+  "20.08.2026__Sundia by Liberty Suncity (ex. Suncity Hotel) 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Alize 4*__STANDARD ROOM AIвсе включено": "ahead"
 }
