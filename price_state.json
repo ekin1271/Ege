@@ -173,7 +173,7 @@
   "15.05.2026__Meri Hotel (ex. Club Meri Hotel) 3*__STANDARD LAND VIEW AI AIвсе включено": "ahead",
   "15.05.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIвсе включено": "equal",
   "15.05.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBзавтраки": "behind",
-  "15.05.2026__Symbola Oludeniz Beach 3*__STONE SEAVIEW ROOM HB HBзавтраки и ужины": "behind",
+  "15.05.2026__Symbola Oludeniz Beach 3*__STONE SEAVIEW ROOM HB HBзавтраки и ужины": "ahead",
   "15.05.2026__Lykia Botanika Beach (ex. Marvida Family Lykia Botanica Beach) 4*__STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "15.05.2026__Anerissa Hotel 3*__STANDARD ROOM AIвсе включено": "behind",
   "15.05.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIвсе включено": "alone",
@@ -945,5 +945,8 @@
   "20.07.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
   "20.08.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIвсе включено": "alone",
-  "20.08.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBзавтраки": "behind"
+  "20.08.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBзавтраки": "behind",
+  "20.05.2026__Fleur Bay Resort (ex. Cactus Fleur Beach) 4*__SUPERIOR ROOM AIвсе включено": "ahead",
+  "20.05.2026__XO Cape Arnna Resort 5*__FAMILY COMFORT ULTRA ALLвсе включено": "ahead",
+  "20.08.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "ahead"
 }
