@@ -219,7 +219,7 @@
   "20.05.2026__Akra Didim 5*__DELUXE GARDEN VIEW ROOM ULTRA ALLвсе включено": "equal",
   "20.05.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIвсе включено": "alone",
   "20.05.2026__Ramada by Wyndham Oludeniz 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "alone",
-  "20.05.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "alone",
+  "20.05.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.06.2026__Hillstone Bodrum & Spa 5*__DELUXE GARDEN VIEW ROOM BBзавтраки": "alone",
   "15.06.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOбез питания": "alone",
   "15.06.2026__Club Hotel Flora 3*__STANDARD ROOM BBзавтраки": "alone",
@@ -1038,5 +1038,12 @@
   "20.06.2026__Ng Sign Bodrum 5*__INFINITY VILLA BBзавтраки": "ahead",
   "20.06.2026__Mare Deluxe Residences & Villas Boutique__MARE COLLECTION SEA VIEW AO AOбез питания": "ahead",
   "20.06.2026__Marcan Beach Hotel (only adults 16+) 4*__STANDARD ROOM BBзавтраки": "equal",
-  "20.08.2026__Ladonia Hotels Mio Bianco 3*__STANDARD ROOM AIвсе включено": "ahead"
+  "20.08.2026__Ladonia Hotels Mio Bianco 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.05.2026__Tonoz Beach 3*__STANDARD ROOM BBзавтраки": "ahead",
+  "20.05.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIвсе включено": "ahead",
+  "20.05.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIвсе включено": "equal",
+  "20.05.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBзавтраки": "behind",
+  "20.06.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
+  "20.06.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Six Senses Kaplankaya 5*__SUPERIOR SEA VIEW ROOM BBзавтраки": "alone"
 }
