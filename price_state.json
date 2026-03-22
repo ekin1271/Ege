@@ -756,7 +756,7 @@
   "20.05.2026__Esra Hotel & Family Suites 3*__PROMO ROOM AIвсе включено": "alone",
   "20.05.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIвсе включено": "ahead",
   "20.06.2026__Cinar Hotel Boutique__STANDARD ROOM BBзавтраки": "ahead",
-  "20.06.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.06.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Charm Beach Hotel 4*__STANDARD  ROOM AIвсе включено": "ahead",
   "20.08.2026__Holiday Inn Resort Bodrum West Beach 5*__PREMIUM GARDENVIEW ROOM ULTRA ALLвсе включено": "ahead",
   "20.08.2026__Malhun 3*__STANDARD ROOM HB HBзавтраки и ужины": "ahead",
@@ -813,7 +813,7 @@
   "20.07.2026__Avantgarde Refined Yalıkavak Special Class -*__DELUXE ROOM BBзавтраки": "behind",
   "20.07.2026__Doria Hotel Bodrum 5*__COMFORT GARDENVIEW ROOM BBзавтраки": "ahead",
   "20.07.2026__XO Cape Arnna Club (only adults 18+) 5*__DELUXE ROOM ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBзавтраки": "behind",
+  "20.07.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBзавтраки": "ahead",
   "20.08.2026__Verde Hotel (only adults 16+) 4*__PROMO ROOM AIвсе включено": "alone",
   "20.08.2026__Amos Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "ahead",
   "20.08.2026__Astoria Life Hotel (ex. Astoria Beach Hotel) 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "behind",
@@ -1045,5 +1045,8 @@
   "20.05.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBзавтраки": "behind",
   "20.06.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
   "20.06.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Six Senses Kaplankaya 5*__SUPERIOR SEA VIEW ROOM BBзавтраки": "alone"
+  "20.07.2026__Six Senses Kaplankaya 5*__SUPERIOR SEA VIEW ROOM BBзавтраки": "alone",
+  "20.06.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIвсе включено": "ahead",
+  "20.07.2026__Portofino Hotel 3*__STANDARD ROOM AIвсе включено": "ahead"
 }
