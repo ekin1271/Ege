@@ -1047,7 +1047,7 @@
   "20.06.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Six Senses Kaplankaya 5*__SUPERIOR SEA VIEW ROOM BBзавтраки": "alone",
   "20.06.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIвсе включено": "ahead",
+  "20.07.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIвсе включено": "behind",
   "20.07.2026__Portofino Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.05.2026__Mare Deluxe Residences & Villas Boutique__MARE COLLECTION SEA VIEW AO AOбез питания": "ahead",
   "20.05.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBзавтраки": "ahead",
@@ -1096,5 +1096,7 @@
   "20.06.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBзавтраки": "alone",
   "20.07.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "alone",
   "20.06.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead",
-  "20.08.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBзавтраки и ужины": "ahead"
+  "20.08.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBзавтраки и ужины": "ahead",
+  "20.07.2026__Marcan Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.07.2026__Unver Hotel 3*__STANDARD ROOM HB HBзавтраки и ужины": "ahead"
 }
