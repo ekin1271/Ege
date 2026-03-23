@@ -216,9 +216,9 @@
   "20.05.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.05.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
   "20.05.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
-  "20.05.2026__Akra Didim 5*__DELUXE GARDEN VIEW ROOM ULTRA ALLвсе включено": "equal",
+  "20.05.2026__Akra Didim 5*__DELUXE GARDEN VIEW ROOM ULTRA ALLвсе включено": "ahead",
   "20.05.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIвсе включено": "alone",
-  "20.05.2026__Ramada by Wyndham Oludeniz 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "alone",
+  "20.05.2026__Ramada by Wyndham Oludeniz 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind",
   "20.05.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.06.2026__Hillstone Bodrum & Spa 5*__DELUXE GARDEN VIEW ROOM BBзавтраки": "alone",
   "15.06.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOбез питания": "alone",
@@ -1090,5 +1090,9 @@
   "20.05.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBзавтраки": "behind",
   "20.07.2026__Marti La Perla (only adults 16+) 4*__LANDVIEW STANDARD ROOM AIвсе включено": "alone",
   "20.07.2026__Verde Hotel (only adults 16+) 4*__PROMO ROOM AIвсе включено": "alone",
-  "20.08.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBзавтраки": "ahead"
+  "20.08.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBзавтраки": "ahead",
+  "20.05.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIвсе включено": "behind",
+  "20.06.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOбез питания": "alone",
+  "20.06.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBзавтраки": "alone",
+  "20.07.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "alone"
 }
