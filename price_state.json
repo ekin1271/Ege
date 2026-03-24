@@ -963,7 +963,7 @@
   "20.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.06.2026__Idas Club 4*__STANDARD ROOM AIвсе включено": "behind",
-  "20.06.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIвсе включено": "ahead",
+  "20.06.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIвсе включено": "behind",
   "20.07.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
   "20.07.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIвсе включено": "ahead",
   "20.07.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
@@ -1098,5 +1098,11 @@
   "20.06.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead",
   "20.08.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBзавтраки и ужины": "ahead",
   "20.07.2026__Marcan Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.07.2026__Unver Hotel 3*__STANDARD ROOM HB HBзавтраки и ужины": "ahead"
+  "20.07.2026__Unver Hotel 3*__STANDARD ROOM HB HBзавтраки и ужины": "ahead",
+  "20.05.2026__Ramitos Boutique Hotel Special Class -*__DELUXE ROOM FOREST VIEW BBзавтраки": "alone",
+  "20.06.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLвсе включено": "alone",
+  "20.08.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBзавтраки": "ahead",
+  "20.08.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead",
+  "20.08.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead"
 }
