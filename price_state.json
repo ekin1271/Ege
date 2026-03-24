@@ -920,7 +920,7 @@
   "20.07.2026__Divan Bodrum 5*__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Sundia by Liberty Oludeniz 4*__SUPERIOR ROOM AIвсе включено": "ahead",
   "20.07.2026__Aurasia Beach 3*__ECONOMY ROOM BBзавтраки": "ahead",
-  "20.07.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBзавтраки": "ahead",
+  "20.07.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBзавтраки": "behind",
   "20.07.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "behind",
   "20.08.2026__Sami Beach Hotel 3*__ANNEX ROOM AIвсе включено": "ahead",
   "20.08.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIвсе включено": "ahead",
@@ -1104,5 +1104,13 @@
   "20.07.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLвсе включено": "alone",
   "20.08.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBзавтраки": "ahead",
   "20.08.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead",
-  "20.08.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead"
+  "20.08.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.06.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
+  "20.06.2026__Kriss Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.07.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.08.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
+  "20.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.08.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "alone",
+  "20.08.2026__Supreme Beach Hotel (only adults 14+) 4*__LANDVIEW STANDARD ROOM AIвсе включено": "alone"
 }
