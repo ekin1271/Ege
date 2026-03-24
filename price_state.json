@@ -782,7 +782,7 @@
   "20.07.2026__Fortezza Beach Resort 5*__STANDARD LAND VIEW AIвсе включено": "alone",
   "20.07.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Amos Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "behind",
-  "20.07.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "behind",
+  "20.07.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIвсе включено": "behind",
   "20.08.2026__Mare Deluxe Residences & Villas Boutique__MARE COLLECTION SEA VIEW AO AOбез питания": "ahead",
   "20.05.2026__Liberty Lykia Family Hotels 5*__DELUXE STANDARD ROOM SIDE SEA VIEW ULTRA ALLвсе включено": "ahead",
@@ -1030,7 +1030,7 @@
   "20.05.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead",
   "20.08.2026__Ladonia Hotels Luna Beach Resort 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.08.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.08.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead",
+  "20.08.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBзавтраки": "equal",
   "20.08.2026__Aurasia Seaside Hotel 3*__PROMO ROOM BBзавтраки": "ahead",
   "20.06.2026__Salinas Beach Hotel Bodrum 3*__STANDARD ROOM BBзавтраки": "ahead",
   "20.06.2026__Hapimag Sea Garden 5*__GARDENVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
@@ -1140,5 +1140,11 @@
   "20.07.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead",
   "20.07.2026__Liberty Signa 5*__DELUXE WITH JACUZZI ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.07.2026__Jiva Beach Resort 5*__ATTIC ROOM POOLVIEW AIвсе включено": "ahead"
+  "20.07.2026__Jiva Beach Resort 5*__ATTIC ROOM POOLVIEW AIвсе включено": "ahead",
+  "20.05.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBзавтраки": "behind",
+  "20.05.2026__Amos Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "ahead",
+  "20.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.07.2026__Idas Club 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.08.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead"
 }
