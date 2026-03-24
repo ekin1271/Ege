@@ -854,7 +854,7 @@
   "20.08.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (COMMUNITY ZONE) ULTRA ALLвсе включено": "alone",
   "20.05.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "behind",
   "20.07.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBзавтраки": "behind",
-  "20.08.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBзавтраки": "ahead",
+  "20.08.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBзавтраки": "behind",
   "20.08.2026__Lujo Art & Joy Bodrum 5*__INDIGO CLUBBER TERRACE ROOM ADULT ONLY BB BBзавтраки": "ahead",
   "20.08.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBзавтраки": "equal",
   "20.08.2026__Esra Hotel & Family Suites 3*__PROMO ROOM AIвсе включено": "alone",
@@ -1062,7 +1062,7 @@
   "15.05.2026__Unver Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "ahead",
   "20.05.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBзавтраки": "ahead",
   "20.05.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.05.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "ahead",
+  "20.05.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "behind",
   "15.07.2026__Unver Hotel 3*__STANDARD ROOM HB HBзавтраки и ужины": "ahead",
   "20.08.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "ahead",
   "20.08.2026__Liberty Hotel Fethiye (Fabay) 5*__LARGE ROOM POOL ACCESS VIA STAIRS ULTRA ALLвсе включено": "ahead",
@@ -1146,5 +1146,12 @@
   "20.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Idas Club 4*__STANDARD ROOM AIвсе включено": "behind",
-  "20.08.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead"
+  "20.08.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead",
+  "20.06.2026__Holiday Inn Resort Bodrum West Beach 5*__PREMIUM GARDENVIEW ROOM ULTRA ALLвсе включено": "ahead",
+  "20.06.2026__Akra Didim 5*__DELUXE SEA VIEW ROOM ULTRA ALLвсе включено": "behind",
+  "15.07.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind",
+  "20.07.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLвсе включено": "equal",
+  "20.07.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBзавтраки": "ahead",
+  "15.08.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind",
+  "20.08.2026__Ruins Luxury Resort (only adults 10+) Boutique__DELUXE ROOM BBзавтраки": "ahead"
 }
