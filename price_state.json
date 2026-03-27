@@ -1007,7 +1007,7 @@
   "20.07.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBзавтраки": "ahead",
   "20.08.2026__Siesta Beach Apart 3*__STUDIO ROOM WITHOUT AIR CONDITIONER AOбез питания": "ahead",
   "20.08.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIвсе включено": "ahead",
-  "20.08.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "behind",
+  "20.08.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "ahead",
   "20.06.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "behind",
   "20.06.2026__Manaspark Deluxe Hotel (ex. Manaspark Oludeniz) 4*__STANDARD ROOM ULTRA ALLвсе включено": "ahead",
@@ -1108,7 +1108,7 @@
   "20.06.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIвсе включено": "ahead",
   "20.06.2026__Kriss Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "behind",
+  "20.07.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
   "20.08.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBзавтраки": "behind",
   "20.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIвсе включено": "behind",
   "20.08.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "alone",
@@ -1207,5 +1207,7 @@
   "20.08.2026__Lujo Art & Joy Bodrum 5*__SUPERIOR ROOM PARTLY SEAVIEW BB BBзавтраки": "ahead",
   "20.08.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIвсе включено": "behind",
   "20.08.2026__Oscar Hotel 2*__STANDARD ROOM AIвсе включено": "behind",
-  "20.06.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead"
+  "20.06.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead",
+  "20.07.2026__Akra Didim 5*__DELUXE GARDEN VIEW WITH JACUZZI ULTRA ALLвсе включено": "ahead",
+  "20.07.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead"
 }
