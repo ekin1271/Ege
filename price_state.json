@@ -163,7 +163,7 @@
   "15.05.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
   "15.05.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "15.05.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "behind",
-  "15.05.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "15.05.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "behind",
   "15.05.2026__Club Tuana 5*__PARK ROOM ULTRA ALLвсе включено": "ahead",
   "15.05.2026__Jiva Beach Resort 5*__STANDART ROOM LANDVIEW AIвсе включено": "ahead",
   "15.05.2026__Liberty Hotel Fethiye (Fabay) 5*__LARGE ROOM POOL ACCESS VIA STAIRS ULTRA ALLвсе включено": "ahead",
@@ -265,7 +265,7 @@
   "15.06.2026__Divan Bodrum 5*__STANDARD ROOM BBзавтраки": "ahead",
   "15.06.2026__Ladonia Hotels Del Mare Boutique Hotel 4*__STANDART ROOM WITH FRENCH BALCONY AIвсе включено": "ahead",
   "15.06.2026__Ruins Luxury Resort (only adults 10+) Boutique__DELUXE ROOM BBзавтраки": "ahead",
-  "15.06.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "behind",
+  "15.06.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead",
   "15.06.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "15.06.2026__Fleur Bay Resort (ex. Cactus Fleur Beach) 4*__SUPERIOR ROOM AIвсе включено": "ahead",
   "15.06.2026__Avantgarde Refined Yalıkavak Special Class -*__DELUXE ROOM BBзавтраки": "ahead",
@@ -1021,7 +1021,7 @@
   "20.07.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBзавтраки": "behind",
   "20.08.2026__Rammos Managed by Dedeman 4*__SUPERIOR GARDENVIEW WITHOUT BALCONY BBзавтраки": "ahead",
   "20.08.2026__Orka Sunlife Resort and Aquapark 5*__STANDARD LAND VIEW ULTRA ALLвсе включено": "ahead",
-  "20.06.2026__Begonville Beach (only adults 16+) 3*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "behind",
+  "20.06.2026__Begonville Beach (only adults 16+) 3*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Karbel Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBзавтраки и ужины": "behind",
@@ -1206,5 +1206,6 @@
   "20.05.2026__Orka Sunlife Resort and Aquapark 5*__STANDARD LAND VIEW ULTRA ALLвсе включено": "ahead",
   "20.08.2026__Lujo Art & Joy Bodrum 5*__SUPERIOR ROOM PARTLY SEAVIEW BB BBзавтраки": "ahead",
   "20.08.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIвсе включено": "behind",
-  "20.08.2026__Oscar Hotel 2*__STANDARD ROOM AIвсе включено": "behind"
+  "20.08.2026__Oscar Hotel 2*__STANDARD ROOM AIвсе включено": "behind",
+  "20.06.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead"
 }
