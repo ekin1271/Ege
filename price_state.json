@@ -892,7 +892,7 @@
   "20.06.2026__Aurasia Seaside Hotel 3*__PROMO ROOM BBзавтраки": "ahead",
   "20.06.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "behind",
   "20.07.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIвсе включено": "equal",
+  "20.07.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIвсе включено": "behind",
   "20.05.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBзавтраки": "behind",
   "20.05.2026__Yasmin Resort 5*__CLUB ROOM LANDVIEW ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
@@ -919,7 +919,7 @@
   "20.07.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Divan Bodrum 5*__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Sundia by Liberty Oludeniz 4*__SUPERIOR ROOM AIвсе включено": "ahead",
-  "20.07.2026__Aurasia Beach 3*__ECONOMY ROOM BBзавтраки": "ahead",
+  "20.07.2026__Aurasia Beach 3*__ECONOMY ROOM BBзавтраки": "behind",
   "20.07.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBзавтраки": "behind",
   "20.07.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIвсе включено": "ahead",
   "20.08.2026__Sami Beach Hotel 3*__ANNEX ROOM AIвсе включено": "ahead",
@@ -1067,7 +1067,7 @@
   "20.08.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "ahead",
   "20.08.2026__Liberty Hotel Fethiye (Fabay) 5*__LARGE ROOM POOL ACCESS VIA STAIRS ULTRA ALLвсе включено": "ahead",
   "20.05.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLвсе включено": "ahead",
-  "20.05.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.05.2026__Yel Holiday Resort 4*__STANDARD ROOM AIвсе включено": "equal",
   "20.05.2026__Majestic Hotel 3*__STANDARD ROOM BBзавтраки": "behind",
   "20.05.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIвсе включено": "behind",
   "20.05.2026__Anerissa Hotel 3*__STANDARD ROOM AIвсе включено": "behind",
@@ -1236,5 +1236,8 @@
   "20.06.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
   "20.05.2026__Rammos Managed by Dedeman 4*__SUPERIOR GARDENVIEW WITHOUT BALCONY BBзавтраки": "ahead",
   "20.08.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLвсе включено": "ahead",
-  "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind"
+  "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind",
+  "20.07.2026__Alize 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLвсе включено": "behind",
+  "20.08.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "ahead"
 }
