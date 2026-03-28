@@ -859,7 +859,7 @@
   "20.08.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBзавтраки": "equal",
   "20.08.2026__Esra Hotel & Family Suites 3*__PROMO ROOM AIвсе включено": "alone",
   "20.08.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIвсе включено": "ahead",
-  "20.06.2026__Begonville 4*__STANDARD ROOM NEW AIвсе включено": "behind",
+  "20.06.2026__Begonville 4*__STANDARD ROOM NEW AIвсе включено": "ahead",
   "20.07.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBзавтраки": "alone",
   "20.07.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.07.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIвсе включено": "ahead",
@@ -1216,5 +1216,8 @@
   "20.05.2026__Lujo Art & Joy Bodrum 5*__LAGUNA SUPERIOR ROOM BB BBзавтраки": "ahead",
   "20.05.2026__Oscar Hotel 2*__STANDARD ROOM AIвсе включено": "behind",
   "20.07.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind",
-  "20.07.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIвсе включено": "alone"
+  "20.07.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIвсе включено": "alone",
+  "20.07.2026__Ramitos Boutique Hotel Special Class -*__DELUXE ROOM FOREST VIEW BBзавтраки": "alone",
+  "20.07.2026__Quadas Hotel (ex.Fantasia Hotel Marmaris) (only adults 16+) 4*__STANDARD ROOM BB BBзавтраки": "alone",
+  "20.08.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBзавтраки и ужины": "ahead"
 }
