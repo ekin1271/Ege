@@ -1192,8 +1192,8 @@
   "20.05.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (COMMUNITY ZONE) ULTRA ALLвсе включено": "alone",
   "20.05.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIвсе включено": "alone",
   "20.08.2026__Ada Julıan Hotel Marmaris (ex. Julian Marmaris) (only adults 14+) 4*__STANDARD ROOM BB BBзавтраки": "ahead",
-  "20.05.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLвсе включено": "behind",
-  "20.05.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIвсе включено": "ahead",
+  "20.05.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLвсе включено": "ahead",
+  "20.05.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIвсе включено": "equal",
   "15.06.2026__Liberty Signa 5*__DELUXE POOL ACCESS VIA STAIRS ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Venosa Beach Resort & Spa 5*__STANDARD ROOM UAI ULTRA ALLвсе включено": "alone",
   "20.06.2026__XO Cape Arnna Club (only adults 18+) 5*__POOL SUITE ULTRA ALLвсе включено": "ahead",
@@ -1239,5 +1239,6 @@
   "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind",
   "20.07.2026__Alize 4*__STANDARD ROOM AIвсе включено": "ahead",
   "20.08.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLвсе включено": "behind",
-  "20.08.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "ahead"
+  "20.08.2026__Belcekum Hotel 4*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.05.2026__Ambrosia Hotel 5*__STANDARD ROOM BBзавтраки": "ahead"
 }
