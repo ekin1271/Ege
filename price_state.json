@@ -915,7 +915,7 @@
   "20.05.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.05.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIвсе включено": "alone",
   "20.06.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIвсе включено": "ahead",
-  "20.06.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBзавтраки": "equal",
+  "20.06.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBзавтраки": "behind",
   "20.07.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Divan Bodrum 5*__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Sundia by Liberty Oludeniz 4*__SUPERIOR ROOM AIвсе включено": "ahead",
@@ -1118,7 +1118,7 @@
   "20.06.2026__Supreme Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.07.2026__Cinar Hotel Boutique__STANDARD ROOM BBзавтраки": "ahead",
   "20.07.2026__Le Meridien Bodrum Resort 5*__PANAROMA ROOM SEAVIEW BBзавтраки": "ahead",
-  "20.07.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIвсе включено": "behind",
+  "20.07.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIвсе включено": "ahead",
   "20.08.2026__Tonoz Beach 3*__STANDARD ROOM BBзавтраки": "ahead",
   "20.08.2026__XO Cape Arnna Resort 5*__DELUXE ROOM ULTRA ALLвсе включено": "ahead",
   "20.08.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIвсе включено": "equal",
@@ -1234,5 +1234,7 @@
   "20.05.2026__XO Cape Arnna Club (only adults 18+) 5*__JACUZZI SUITE ULTRA ALLвсе включено": "ahead",
   "20.06.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind",
   "20.06.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIвсе включено": "ahead",
-  "20.05.2026__Rammos Managed by Dedeman 4*__SUPERIOR GARDENVIEW WITHOUT BALCONY BBзавтраки": "ahead"
+  "20.05.2026__Rammos Managed by Dedeman 4*__SUPERIOR GARDENVIEW WITHOUT BALCONY BBзавтраки": "ahead",
+  "20.08.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLвсе включено": "ahead",
+  "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBзавтраки": "behind"
 }
