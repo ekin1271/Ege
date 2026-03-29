@@ -943,7 +943,7 @@
   "20.05.2026__Aurasia Seaside Hotel 3*__STANDARD ROOM BBзавтраки": "ahead",
   "20.05.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBзавтраки и ужины": "ahead",
   "20.07.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLвсе включено": "ahead",
-  "20.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
+  "20.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "ahead",
   "20.08.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIвсе включено": "alone",
   "20.08.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBзавтраки": "behind",
   "20.05.2026__Fleur Bay Resort (ex. Cactus Fleur Beach) 4*__SUPERIOR ROOM AIвсе включено": "ahead",
@@ -1250,5 +1250,6 @@
   "20.07.2026__Golden Age Yalikavak Bodrum 4*__ANEX ROOM AIвсе включено": "alone",
   "20.08.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
   "20.08.2026__La Quinta by Wyndham Bodrum 4*__CLUB ROOM LANDVIEW ULTRA ALLвсе включено": "ahead",
-  "20.08.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIвсе включено": "ahead"
+  "20.08.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBзавтраки": "behind"
 }
