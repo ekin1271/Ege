@@ -936,7 +936,7 @@
   "20.08.2026__Montana Pine Resort 4*__STANDARD ROOM AIвсе включено": "equal",
   "20.05.2026__Ladonia Hotels Mio Bianco 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.05.2026__Atrium 3*__STANDARD ROOM BBзавтраки": "ahead",
-  "20.05.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLвсе включено": "ahead",
+  "20.05.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLвсе включено": "equal",
   "20.05.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIвсе включено": "ahead",
   "20.05.2026__Pink Palace 3*__STANDARD ROOM AIвсе включено": "behind",
   "20.05.2026__Symbola Oludeniz Beach 3*__STONE SEAVIEW ROOM HB HBзавтраки и ужины": "ahead",
@@ -1256,5 +1256,6 @@
   "20.05.2026__Cinar Hotel Boutique__STANDARD ROOM BBзавтраки": "ahead",
   "20.06.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead",
   "20.07.2026__Club Hotel Flora 3*__STANDARD ROOM BBзавтраки": "alone",
-  "20.08.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "behind"
+  "20.08.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "behind",
+  "20.06.2026__La Quinta by Wyndham Bodrum 4*__CLUB ROOM LANDVIEW ULTRA ALLвсе включено": "ahead"
 }
