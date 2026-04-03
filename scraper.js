@@ -20,24 +20,20 @@ const AGENCY_RULES = [
   { pattern: '103825',    name: 'KILIT GLOBAL' },
 ];
 
-// ─── Hotels ──────────────────────────────────────────────────────────────────
 function loadHotels() {
   if (fs.existsSync(HOTELS_FILE)) return JSON.parse(fs.readFileSync(HOTELS_FILE, 'utf8'));
   return [];
 }
 
-// ─── Dinamik tarih üretimi ────────────────────────────────────────────────────
 function generateDates() {
   const dates = [];
   const now = new Date();
   const year = now.getFullYear();
   const fmt = n => String(n).padStart(2, '0');
 
-  // Sabit aylar: Mayıs(4), Haziran(5), Temmuz(6), Ağustos(7) — JS'de ay 0'dan başlar
   const MONTHS = [4, 5, 6, 7];
 
   for (const month of MONTHS) {
-    // O ayın 15'i, geçmişte kalmışsa atlıyoruz
     const d = new Date(year, month, 15);
     if (d < now) continue;
 
@@ -50,7 +46,6 @@ function generateDates() {
   return dates;
 }
 
-// ─── URL üretimi ─────────────────────────────────────────────────────────────
 function generateUrls() {
   const hotels = loadHotels();
   const dates  = generateDates();
@@ -58,7 +53,6 @@ function generateUrls() {
 
   for (const { checkIn, checkOut } of dates) {
     for (const hotel of hotels) {
-      // f1 parametresi varsa (Bodrum gibi) URL'e ekle
       const f1Part = hotel.f1 ? `&f1=${hotel.f1}` : '';
       const url = [
         'https://www.bgoperator.ru/price.shtml',
@@ -114,7 +108,6 @@ async function sendTelegramSplit(aheadAlerts, equalAlerts) {
   ];
   if (allAlerts.length === 0) return;
 
-  // Otel + oda bazında grupla
   const groups = {};
   for (const a of allAlerts) {
     const key = `${a.hotel}__${a.room}`;
@@ -122,7 +115,6 @@ async function sendTelegramSplit(aheadAlerts, equalAlerts) {
     groups[key].entries.push(a);
   }
 
-  // Her grubun içini tarihe göre sırala
   for (const g of Object.values(groups)) {
     g.entries.sort((a, b) => {
       const toMs = s => { const [d,m,y] = s.split('.'); return new Date(y,m-1,d).getTime(); };
@@ -191,14 +183,17 @@ async function scrapePageOnce(browser, targetUrl, checkIn) {
       return null;
     }
 
-    let hotelName = '';
-    const hotelLink = document.querySelector('a[href*="action=shw"]');
-    if (hotelLink) hotelName = hotelLink.textContent.trim();
-
     const offers = [];
     const blocks = document.querySelectorAll('div.b-pr');
 
     for (const block of blocks) {
+      // FIX: otel adı b-pr içindeki ilk a[href*="code="] elementinin text'i
+      let hotelName = '';
+      const hotelLink = block.querySelector('a[href*="code="]');
+      if (hotelLink) hotelName = hotelLink.textContent.trim();
+      // Fallback: boş kalırsa hotelId'yi dışarıdan atayacağız
+      if (!hotelName) hotelName = '';
+
       const allRows = block.querySelectorAll('tr');
       let peninsulaPrice    = null;
       let peninsulaRoomName = '';
@@ -208,7 +203,6 @@ async function scrapePageOnce(browser, targetUrl, checkIn) {
         const allLis = tr.querySelectorAll('li.s8.i_t1');
         if (allLis.length === 0) continue;
 
-        // Tarihe uyan li'yi seç
         let chosenLi = allLis[0];
         if (targetDate) {
           for (const li of allLis) {
@@ -223,7 +217,6 @@ async function scrapePageOnce(browser, targetUrl, checkIn) {
         const agency = identifyAgency(urr);
         if (!agency) continue;
 
-        // EUR fiyatı x= parametresinden al
         let price = null;
         const priceLink = tr.querySelector('td.c_pe a[href*="x="]');
         if (priceLink) {
@@ -254,11 +247,17 @@ async function scrapePageOnce(browser, targetUrl, checkIn) {
   return results;
 }
 
-async function scrapePageWithDateShift(browser, targetUrl, checkIn) {
+async function scrapePageWithDateShift(browser, targetUrl, checkIn, hotelId) {
   let results = await scrapePageOnce(browser, targetUrl, checkIn);
+
+  // hotelName boşsa hotelId ile doldur — state key'i tutarlı kalsın
+  results = results.map(o => ({
+    ...o,
+    hotelName: o.hotelName || `hotel_${hotelId}`,
+  }));
+
   if (results.length > 0) return { results, usedCheckIn: checkIn };
 
-  // Sonuç yoksa 5 gün ileri kayar
   const [d, m, y] = checkIn.split('.');
   const date = new Date(y, m - 1, d);
   date.setDate(date.getDate() + 5);
@@ -272,8 +271,13 @@ async function scrapePageWithDateShift(browser, targetUrl, checkIn) {
     .replace(/data=\d{2}\.\d{2}\.\d{4}/, `data=${newCheckIn}`)
     .replace(/d2=\d{2}\.\d{2}\.\d{4}/,   `d2=${newCheckOut}`);
 
-  results = await scrapePageOnce(browser, newUrl, newCheckIn);
-  return { results, usedCheckIn: newCheckIn };
+  let shifted = await scrapePageOnce(browser, newUrl, newCheckIn);
+  shifted = shifted.map(o => ({
+    ...o,
+    hotelName: o.hotelName || `hotel_${hotelId}`,
+  }));
+
+  return { results: shifted, usedCheckIn: newCheckIn };
 }
 
 // ─── Analiz ──────────────────────────────────────────────────────────────────
@@ -290,7 +294,7 @@ function analyzeOffers(checkIn, offers, prevState, newState) {
       continue;
     }
 
-    const cheapest  = o.rivals.reduce((a, b) => a.price < b.price ? a : b);
+    const cheapest   = o.rivals.reduce((a, b) => a.price < b.price ? a : b);
     const rivalAhead = cheapest.price < o.peninsulaPrice;
     const isEqual    = cheapest.price === o.peninsulaPrice;
     const isNew      = prevStatus === 'alone' || prevStatus === undefined;
@@ -377,7 +381,9 @@ async function main() {
     for (let i = 0; i < urls.length; i += CONCURRENCY) {
       const batch = urls.slice(i, i + CONCURRENCY);
       const batchResults = await Promise.all(
-        batch.map(({ url, checkIn }) => scrapePageWithDateShift(browser, url, checkIn))
+        batch.map(({ url, checkIn, hotelId }) =>
+          scrapePageWithDateShift(browser, url, checkIn, hotelId)
+        )
       );
 
       for (const { results, usedCheckIn } of batchResults) {
