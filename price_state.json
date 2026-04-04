@@ -657,7 +657,7 @@
   "20.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBзавтраки": "behind",
   "20.07.2026__Symbola Oludeniz Beach 3*__STONE LAND VIEW ROOM HB HBзавтраки и ужины": "ahead",
   "20.07.2026__Begonville 4*__STANDARD ROOM NEW AIвсе включено": "ahead",
-  "20.07.2026__Amos Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "behind",
+  "20.07.2026__Amos Hotel 3*__STANDARD ROOM HBзавтраки и ужины": "ahead",
   "20.08.2026__Sami Beach Hotel 3*__ANNEX ROOM AIвсе включено": "ahead",
   "20.06.2026__Mivara Luxury Resort Spa Bodrum 5*__DELUXE KING OR TWIN BED BBзавтраки": "ahead",
   "20.06.2026__Ruins Luxury Resort (only adults 10+) Boutique__DELUXE ROOM BBзавтраки": "behind",
@@ -747,5 +747,15 @@
   "20.08.2026__Anerissa Hotel 3*__STANDARD ROOM AIвсе включено": "ahead",
   "20.06.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBзавтраки": "equal",
   "20.08.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIвсе включено": "alone",
-  "20.08.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "ahead"
+  "20.08.2026__Aymes 3*__STANDARD ROOM BB BBзавтраки": "ahead",
+  "20.06.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLвсе включено": "alone",
+  "20.06.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBзавтраки": "ahead",
+  "20.07.2026__Oludeniz Blu Luxury Unique Hotel 4*__DELUXE ROOM BBзавтраки": "alone",
+  "20.07.2026__Aurasia Seaside Hotel 3*__STANDARD ROOM BBзавтраки": "ahead",
+  "20.08.2026__Samara Hotel  5*__LANDVIEW STANDARD ROOM ULTRA ALLвсе включено": "ahead",
+  "20.08.2026__Siesta Beach Apart 3*__STUDIO ROOM WITHOUT AIR CONDITIONER AOбез питания": "ahead",
+  "20.08.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBзавтраки": "ahead",
+  "20.08.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (COMMUNITY ZONE) ULTRA ALLвсе включено": "alone",
+  "20.08.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIвсе включено": "ahead",
+  "20.08.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBзавтраки": "ahead"
 }
