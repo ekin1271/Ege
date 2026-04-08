@@ -128,7 +128,7 @@
   "15.05.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.05.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
-  "15.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "15.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Portofino Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
   "15.05.2026__Aurasia Beach 3*__ECONOMY ROOM BBЗАВТРАКИ": "ahead",
   "15.05.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "behind",
@@ -684,5 +684,13 @@
   "20.07.2026__Quadas Hotel (ex.Fantasia Hotel Marmaris) (only adults 16+) 4*__STANDARD ROOM BB BBЗАВТРАКИ": "alone",
   "20.08.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.08.2026__Holiday Inn Resort Bodrum West Beach 5*__PREMIUM GARDENVIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
-  "20.08.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBЗАВТРАКИ": "behind"
+  "20.08.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBЗАВТРАКИ": "behind",
+  "20.05.2026__Orka Sunlife Resort and Aquapark 5*__STANDARD LAND VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOБЕЗ ПИТАНИЯ": "alone",
+  "20.06.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBЗАВТРАКИ": "behind",
+  "20.06.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBЗАВТРАКИ": "ahead",
+  "20.07.2026__Karbel Hotel 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBЗАВТРАКИ И УЖИНЫ": "ahead"
 }
