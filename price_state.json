@@ -654,7 +654,7 @@
   "20.06.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
   "20.06.2026__Ramitos Boutique Hotel Special Class -*__DELUXE ROOM FOREST VIEW BBЗАВТРАКИ": "alone",
   "20.07.2026__Avantgarde Refined Yalıkavak Special Class -*__DELUXE ROOM BBЗАВТРАКИ": "ahead",
-  "20.08.2026__Risa 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Risa 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "behind",
   "20.05.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -692,5 +692,15 @@
   "20.06.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBЗАВТРАКИ": "behind",
   "20.06.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBЗАВТРАКИ": "ahead",
   "20.07.2026__Karbel Hotel 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBЗАВТРАКИ И УЖИНЫ": "ahead"
+  "20.07.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
+  "20.05.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBЗАВТРАКИ": "behind",
+  "20.05.2026__Club Shark Hotel 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
+  "20.05.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.05.2026__Oludeniz Blu Luxury Unique Hotel 4*__DELUXE ROOM BBЗАВТРАКИ": "alone",
+  "20.06.2026__XO Cape Arnna Resort 5*__FAMILY SUITE ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBЗАВТРАКИ": "behind",
+  "20.08.2026__Divan Bodrum 5*__STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
