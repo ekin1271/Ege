@@ -641,7 +641,7 @@
   "20.06.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "behind",
   "20.07.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.07.2026__Atrium 3*__STANDARD ROOM BBЗАВТРАКИ": "behind",
-  "20.07.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Lykia Botanika Beach (ex. Marvida Family Lykia Botanica Beach) 4*__STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.05.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -733,7 +733,7 @@
   "20.05.2026__Anerissa Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.06.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
-  "20.06.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Meri Hotel (ex. Club Meri Hotel) 3*__STANDARD LAND VIEW AI AIВСЕ ВКЛЮЧЕНО": "equal",
   "20.07.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -810,5 +810,11 @@
   "20.07.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Aymes 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "20.08.2026__Idas Club 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
-  "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Supreme Beach Hotel (only adults 14+) 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Fortezza Beach Resort 5*__STANDARD LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.08.2026__Anerissa Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.08.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone"
 }
