@@ -127,7 +127,7 @@
   "15.05.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "15.05.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "15.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Portofino Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.05.2026__Aurasia Beach 3*__ECONOMY ROOM BBЗАВТРАКИ": "ahead",
@@ -277,7 +277,7 @@
   "15.06.2026__Begonville Beach (only adults 16+) 3*__FRONT SEAVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.06.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "15.06.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "15.06.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Portofino Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Aurasia Beach 3*__ECONOMY ROOM BBЗАВТРАКИ": "ahead",
@@ -932,5 +932,8 @@
   "20.07.2026__Ladonia Hotels Luna Beach Resort 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOБЕЗ ПИТАНИЯ": "alone",
-  "20.07.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIВСЕ ВКЛЮЧЕНО": "alone"
+  "20.07.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.07.2026__Akra Didim 5*__ADULT PRIENE HOUSE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.08.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
+  "20.08.2026__Begonville 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
