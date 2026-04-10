@@ -621,7 +621,7 @@
   "20.08.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
   "20.08.2026__Majestic Hotel 3*__STANDARD ROOM BBЗАВТРАКИ": "behind",
   "20.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.08.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__The Beach Front Hotel (only adults 16+) 3*__STANDARD SIDE SEA VIEW AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.05.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBЗАВТРАКИ": "behind",
   "20.05.2026__Amos Hotel 3*__STANDARD ROOM HBЗАВТРАКИ И УЖИНЫ": "behind",
@@ -822,7 +822,7 @@
   "20.07.2026__Liberty Lykia Family Hotels 5*__DELUXE STANDART LAND SIDE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Montana Pine Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
-  "20.07.2026__Begonville 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Begonville 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Idas Hotel (only adults 16+) 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.07.2026__Aurasia Seaside Hotel 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBЗАВТРАКИ": "ahead",
@@ -935,5 +935,13 @@
   "20.07.2026__Oscar Seaside Hotel & Spa 3*__ECONOMY ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.07.2026__Akra Didim 5*__ADULT PRIENE HOUSE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
-  "20.08.2026__Begonville 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.08.2026__Begonville 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Esra Hotel & Family Suites 3*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Liberty Lykia Family Hotels 5*__DELUXE STANDART LAND SIDE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBЗАВТРАКИ": "ahead",
+  "20.07.2026__Ada Julıan Hotel Marmaris (ex. Julian Marmaris) (only adults 14+) 4*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "20.08.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.08.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "20.08.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "ahead"
 }
