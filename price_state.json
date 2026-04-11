@@ -700,7 +700,7 @@
   "20.06.2026__XO Cape Arnna Resort 5*__FAMILY SUITE ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Ahama Hotel (only adults 5+) 5*__GUEST HOUSE ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Divan Bodrum 5*__STANDARD ROOM BBЗАВТРАКИ": "behind",
-  "20.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Robinson Sarigerme 4*__CLASSIC SEA SIDE AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.08.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Club Hotel Flora 3*__STANDARD ROOM BBЗАВТРАКИ": "alone",
@@ -1010,5 +1010,9 @@
   "20.05.2026__XO Cape Arnna Resort 5*__BIG FAMILY ROOM LAND VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.06.2026__Cinar Hotel Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "20.08.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.08.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
+  "20.06.2026__Jiva Beach Resort 5*__ATTIC ROOM POOLVIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBЗАВТРАКИ": "behind"
 }
