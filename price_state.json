@@ -510,7 +510,7 @@
   "15.08.2026__Venosa Beach Resort & Spa 5*__STANDARD ROOM UAI ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
   "15.08.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Oludeniz Blu Luxury Unique Hotel 4*__DELUXE ROOM BBЗАВТРАКИ": "alone",
-  "15.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "15.08.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Marcan Beach Hotel (only adults 16+) 4*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.08.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -999,5 +999,11 @@
   "20.07.2026__Six Senses Kaplankaya 5*__SUPERIOR SEA VIEW ROOM BBЗАВТРАКИ": "alone",
   "20.07.2026__Samara Hotel  5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Mare Deluxe Residences & Villas Boutique__DELUXE SUITE SEA VIEW AO AOБЕЗ ПИТАНИЯ": "behind",
-  "20.06.2026__Mirada Exclusive Bodrum 5*__STANDARD ROOM PARTIAL SEA VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal"
+  "20.06.2026__Mirada Exclusive Bodrum 5*__STANDARD ROOM PARTIAL SEA VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
+  "20.06.2026__Pink Palace 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.06.2026__Orka Sunlife Resort and Aquapark 5*__STANDARD LAND VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Astoria Life Hotel (ex. Astoria Beach Hotel) 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
+  "20.07.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBЗАВТРАКИ": "ahead",
+  "20.07.2026__Liberty Hotels Lykia (only adults 16+) 5*__DELUXE STANDART LAND SIDE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead"
 }
