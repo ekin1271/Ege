@@ -716,7 +716,7 @@
   "20.06.2026__Doria Hotel Bodrum 5*__COMFORT GARDENVIEW ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBЗАВТРАКИ": "ahead",
   "20.07.2026__Fleur Bay Resort (ex. Cactus Fleur Beach) 4*__SUPERIOR ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
-  "20.07.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBЗАВТРАКИ": "behind",
+  "20.07.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBЗАВТРАКИ": "ahead",
   "20.08.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.08.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__SUPERIOR DOUBLE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Golmar Beach Hotel 4*__SIDE SEAVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
@@ -1014,5 +1014,13 @@
   "20.05.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
   "20.06.2026__Jiva Beach Resort 5*__ATTIC ROOM POOLVIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBЗАВТРАКИ": "behind"
+  "20.07.2026__Bodrium Hotel & Spa Boutique__STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.06.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Holiday Inn Resort Bodrum West Beach 5*__PREMIUM GARDENVIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "alone",
+  "20.07.2026__Club Shark Hotel 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Hapimag Sea Garden 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "ahead"
 }
