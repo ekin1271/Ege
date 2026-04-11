@@ -804,7 +804,7 @@
   "20.08.2026__Ladonia Hotels Mio Bianco 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Six Senses Kaplankaya 5*__RIDGE TERRACE GARDEN VIEW ROOM BBЗАВТРАКИ": "alone",
   "20.05.2026__Manzara Hotel Special (only adults 12+) Boutique__SUPERIOR ROOM BBЗАВТРАКИ": "ahead",
-  "20.05.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBЗАВТРАКИ": "behind",
+  "20.05.2026__Kuum Hotel Spa Turkbuku (only adults 14+) Boutique__SUPERIOR ROOM SEA VIEW BBЗАВТРАКИ": "ahead",
   "20.05.2026__DoubleTree by Hilton Bodrum Isil Club Resort 5*__GUEST CLUB ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Maxsea Beach Bodrum (ex. Moonlight) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -1005,5 +1005,10 @@
   "20.06.2026__Orka Sunlife Resort and Aquapark 5*__STANDARD LAND VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Astoria Life Hotel (ex. Astoria Beach Hotel) 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "20.07.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBЗАВТРАКИ": "ahead",
-  "20.07.2026__Liberty Hotels Lykia (only adults 16+) 5*__DELUXE STANDART LAND SIDE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.07.2026__Liberty Hotels Lykia (only adults 16+) 5*__DELUXE STANDART LAND SIDE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Tonoz Beach 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "20.05.2026__XO Cape Arnna Resort 5*__BIG FAMILY ROOM LAND VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "20.06.2026__Cinar Hotel Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "20.08.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
