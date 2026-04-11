@@ -890,7 +890,7 @@
   "20.07.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.07.2026__Marti Resort  5*__DELUXE LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
   "15.08.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (FAMILY ZONE) ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
-  "20.05.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.05.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -982,5 +982,8 @@
   "20.05.2026__Liberty Lykia Family Hotels 5*__DELUXE STANDARD ROOM SIDE SEA VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Esra Hotel & Family Suites 3*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.08.2026__Hillstone Bodrum & Spa 5*__DELUXE GARDEN VIEW ROOM BBЗАВТРАКИ": "alone",
-  "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBЗАВТРАКИ": "behind"
+  "20.08.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBЗАВТРАКИ": "behind",
+  "20.05.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Oludeniz Turquoise Hotel 4*__LANDVIEW STANDARD ROOM AI AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
