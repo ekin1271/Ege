@@ -638,7 +638,7 @@
   "20.05.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "20.06.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
-  "20.06.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "behind",
+  "20.06.2026__Aurasia Design Hotel (ex. Aurasia Deluxe Hotel) 3*__PROMO ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Sunpoint Hotel Bodrum 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.07.2026__Atrium 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -1085,5 +1085,6 @@
   "20.05.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "alone",
   "20.07.2026__XO Cape Arnna Resort 5*__DELUXE ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Manzara Hotel Special (only adults 12+) Boutique__SUPERIOR ROOM BBЗАВТРАКИ": "behind"
+  "20.07.2026__Manzara Hotel Special (only adults 12+) Boutique__SUPERIOR ROOM BBЗАВТРАКИ": "behind",
+  "20.07.2026__Residence 222 Hisaronu Special Class (only adults 16+) -*__DELUXE ROOM BBЗАВТРАКИ": "behind"
 }
