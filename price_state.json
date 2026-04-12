@@ -383,7 +383,7 @@
   "15.07.2026__Sundia by Liberty Oludeniz 4*__SUPERIOR ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.07.2026__Sundia By Liberty Exclusive Fethiye (only adults 16+)(ex. Sundia Exclusive by Liberty Fethiye) 5*__DELUXE LANDVIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.07.2026__Sundia by Liberty Suncity (ex. Suncity Hotel) 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.07.2026__Liberty Signa 5*__DELUXE WITH JACUZZI ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "15.07.2026__Liberty Signa 5*__DELUXE WITH JACUZZI ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
   "15.07.2026__Montana Pine Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
   "15.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.07.2026__Montebello Resort 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -743,7 +743,7 @@
   "20.06.2026__La Quinta by Wyndham Bodrum 4*__CLUB ROOM LANDVIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__DoubleTree by Hilton Bodrum Isil Club Resort 5*__GUEST CLUB ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.08.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Azka Hotel 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Avantgarde Refined Yalıkavak Special Class -*__DELUXE ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Oludeniz Turquoise Hotel 4*__LANDVIEW STANDARD ROOM AI AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Maris Beach 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "alone",
@@ -1069,5 +1069,7 @@
   "20.08.2026__Mare Deluxe Residences & Villas Boutique__DELUXE SUITE SEA VIEW AO AOБЕЗ ПИТАНИЯ": "ahead",
   "20.08.2026__Golden Age Yalikavak Bodrum 4*__ANEX ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.08.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
-  "20.08.2026__Verde Hotel (only adults 16+) 4*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "alone"
+  "20.08.2026__Verde Hotel (only adults 16+) 4*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
+  "20.05.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBЗАВТРАКИ": "ahead",
+  "20.08.2026__Hapimag Sea Garden 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead"
 }
