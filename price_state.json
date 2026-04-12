@@ -8,7 +8,7 @@
   "15.05.2026__The Bodrum Edition 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "behind",
   "15.05.2026__Lujo Art & Joy Bodrum 5*__LAGUNA DELUXE ROOM PARTLY SEAVIEW - SWIM UP BB BBЗАВТРАКИ": "ahead",
   "15.05.2026__Yasmin Resort 5*__CLUB ROOM LANDVIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Cinar Hotel Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "15.05.2026__Cinar Hotel Boutique__STANDARD ROOM BBЗАВТРАКИ": "equal",
   "15.05.2026__Caresse A Luxury Collection Resort & Spa Bodrum 5*__DELUXE ROOM BBЗАВТРАКИ": "behind",
   "15.05.2026__Isolina Hotel - Bodrum Boutique__COMFORT ROOM BBЗАВТРАКИ": "behind",
   "15.05.2026__Le Meridien Bodrum Resort 5*__PANAROMA ROOM SEAVIEW BBЗАВТРАКИ": "ahead",
@@ -53,7 +53,7 @@
   "15.05.2026__DoubleTree by Hilton Bodrum Isil Club Resort 5*__GUEST CLUB ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Mare Deluxe Residences & Villas Boutique__MARE COLLECTION SEA VIEW AO AOБЕЗ ПИТАНИЯ": "behind",
   "15.05.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBЗАВТРАКИ": "ahead",
-  "15.05.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBЗАВТРАКИ": "behind",
+  "15.05.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBЗАВТРАКИ": "ahead",
   "15.05.2026__The Marmara Bodrum (only adults 13+) 5*__DELUXE ROOM GARDEN VIEW BBЗАВТРАКИ": "ahead",
   "15.05.2026__Golden Age Yalikavak Bodrum 4*__ANEX ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "15.05.2026__Akra Didim 5*__DELUXE GARDEN VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -66,10 +66,10 @@
   "15.05.2026__Orka World Hotel & Aquapark 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Akra Fethiye The Residence at Tui Blue Sensatori (only adults 16+) 5*__PENTHOUSE SUITE WITH JACUZZI ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
   "15.05.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Aymes 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "15.05.2026__Aymes 3*__STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "15.05.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.05.2026__Malhun 3*__STANDARD ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
-  "15.05.2026__Manaspark Deluxe Hotel (ex. Manaspark Oludeniz) 4*__STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "15.05.2026__Manaspark Deluxe Hotel (ex. Manaspark Oludeniz) 4*__STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
   "15.05.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Oludeniz Turquoise Hotel 4*__LANDVIEW STANDARD ROOM AI AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Perdikia Beach Hotel 3*__STANDARD ROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
@@ -1058,5 +1058,6 @@
   "20.06.2026__Tonoz Beach 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Idas Hotel (only adults 16+) 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.05.2026__Atrium 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "20.05.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead"
+  "20.05.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "20.08.2026__Kaya Maris 4*__STANDARD ROOM LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone"
 }
