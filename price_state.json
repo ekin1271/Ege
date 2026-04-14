@@ -756,7 +756,7 @@
   "20.08.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Oludeniz Blu Luxury Unique Hotel 4*__DELUXE ROOM BBЗАВТРАКИ": "alone",
   "20.08.2026__Marcan Beach Hotel (only adults 16+) 4*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "20.08.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Jasmin Elite Residence 4*__STUDIO ROOM AOБЕЗ ПИТАНИЯ": "alone",
   "20.05.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -976,7 +976,7 @@
   "20.05.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Aymes 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "20.06.2026__My Dream Hotel 4*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
-  "20.06.2026__Oscar Hotel 2*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Oscar Hotel 2*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
   "20.08.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Liberty Lykia Family Hotels 5*__DELUXE STANDARD ROOM SIDE SEA VIEW ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -1120,5 +1120,6 @@
   "20.06.2026__Yunus Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.05.2026__Divan Bodrum 5*__DELUXE GARDEN VIEW ROOM BBЗАВТРАКИ": "ahead",
   "20.06.2026__Tuntas Beach Hotel 3*__PROMO ROOM WITHOUT BALCONY AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead"
+  "20.07.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "20.05.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind"
 }
