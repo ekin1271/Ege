@@ -170,7 +170,7 @@
   "15.06.2026__Delta Hotels by Marriott Bodrum 5*__STANDART PROMOTION ROOM NO VIEW NO BALCOY AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.06.2026__Hapimag Sea Garden 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Green Bay Resort & Spa 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
-  "15.06.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "15.06.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.06.2026__Kriss Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.06.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "15.06.2026__Ladonia Hotels Luna Beach Resort 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -438,9 +438,9 @@
   "15.07.2026__Loryma Resort 4*__PROMO SUITE ONE BEDROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.07.2026__My Dream Hotel 4*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
   "15.07.2026__Oscar Hotel 2*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
-  "15.07.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBЗАВТРАКИ": "ahead",
+  "15.07.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBЗАВТРАКИ": "behind",
   "15.07.2026__Point Beach (ex. Mehtap Beach) 4*__LANDVIEW STANDARD ROOM AI AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.07.2026__Yunus Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "15.07.2026__Yunus Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
   "15.07.2026__Quadas Hotel (ex.Fantasia Hotel Marmaris) (only adults 16+) 4*__STANDARD ROOM BB BBЗАВТРАКИ": "alone",
   "20.07.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Hillstone Bodrum & Spa 5*__DELUXE GARDEN VIEW ROOM BBЗАВТРАКИ": "alone",
@@ -1141,5 +1141,8 @@
   "20.06.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "20.07.2026__Golmar Beach Hotel 4*__SIDE SEAVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.08.2026__Symbola Oludeniz Beach 3*__STONE LAND VIEW ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
-  "20.06.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.06.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Aurasia Beach 3*__STANDARD  ROOM BBЗАВТРАКИ": "ahead",
+  "20.06.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead"
 }
