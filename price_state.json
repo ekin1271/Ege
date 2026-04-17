@@ -1132,7 +1132,7 @@
   "20.07.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Liberty Lykia Family Hotels 5*__LAND SIDE STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
-  "20.05.2026__Charm Beach Hotel 4*__STANDARD  ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.05.2026__Charm Beach Hotel 4*__STANDARD  ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.08.2026__Casa Nonna Bodrum (ex. Sign by Ersan) (only adults 16+) 5*__DELUXE GARDEN SEAVIEW BBЗАВТРАКИ": "ahead",
   "20.08.2026__Anil Beach Hotel Gumbet  3*__STANDARD  ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__Jasmin Beach Hotel 4*__CLUB ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -1191,5 +1191,6 @@
   "20.06.2026__Ruins Luxury Resort (only adults 10+) Boutique__DELUXE ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Marti La Perla (only adults 16+) 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.07.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Aurasia Beach 3*__ECONOMY ROOM BBЗАВТРАКИ": "ahead"
+  "20.07.2026__Aurasia Beach 3*__ECONOMY ROOM BBЗАВТРАКИ": "ahead",
+  "20.05.2026__Unver Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead"
 }
