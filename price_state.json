@@ -125,7 +125,7 @@
   "15.05.2026__Amos Hotel 3*__STANDARD ROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.05.2026__Astoria Life Hotel (ex. Astoria Beach Hotel) 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "15.05.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "15.05.2026__Elite World Marmaris (only adults 16+) 4*__DELUXE LANDVIEW ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Isla Panorama Hotel 4*__STANDART ROOM ANEX BUILDING AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "15.05.2026__Casa De Maris (only adults 16+) 5*__LANDVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -183,7 +183,7 @@
   "15.06.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.06.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
-  "15.06.2026__Casa Nonna Bodrum (ex. Sign by Ersan) (only adults 16+) 5*__DELUXE GARDEN SEAVIEW BBЗАВТРАКИ": "ahead",
+  "15.06.2026__Casa Nonna Bodrum (ex. Sign by Ersan) (only adults 16+) 5*__DELUXE GARDEN SEAVIEW BBЗАВТРАКИ": "behind",
   "15.06.2026__Mivara Luxury Resort Spa Bodrum 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "ahead",
   "15.06.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.06.2026__Divan Bodrum 5*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -1143,7 +1143,7 @@
   "20.08.2026__Symbola Oludeniz Beach 3*__STONE LAND VIEW ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "20.06.2026__Akra Fethiye Tui Blue Sensatori (ex. Tui Blue Sensatori Barut Fethiye) 5*__STANDARD ROOM LANDVIEW (ADULT AREA) ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Aurasia Beach 3*__STANDARD  ROOM BBЗАВТРАКИ": "ahead",
-  "20.06.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.07.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.06.2026__Mert Seaside Hotel (only adults 13+) 3*__PROMO ROOM WITHOUT BALCONY BB BBЗАВТРАКИ": "ahead",
   "20.05.2026__Ramada by Wyndham Oludeniz (only adults 16+) 4*__SIDE SEAVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -1185,5 +1185,7 @@
   "20.06.2026__XO Cape Arnna Resort 5*__DELUXE ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Oscar Hotel 2*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
   "20.08.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBЗАВТРАКИ": "ahead",
-  "20.07.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead"
+  "20.07.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
+  "20.05.2026__Malhun 3*__STANDARD ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
+  "20.07.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
