@@ -182,7 +182,7 @@
   "15.06.2026__Risa 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.06.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.06.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
+  "15.06.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Casa Nonna Bodrum (ex. Sign by Ersan) (only adults 16+) 5*__DELUXE GARDEN SEAVIEW BBЗАВТРАКИ": "behind",
   "15.06.2026__Mivara Luxury Resort Spa Bodrum 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "ahead",
   "15.06.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -1187,5 +1187,6 @@
   "20.08.2026__Costa Bitezhan Beach Hotel 4*__PROMO ROOM BB BBЗАВТРАКИ": "ahead",
   "20.07.2026__Palmea Hotel (ex. Club Palm) 4*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "20.05.2026__Malhun 3*__STANDARD ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
-  "20.07.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.07.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.06.2026__Ruins Luxury Resort (only adults 10+) Boutique__DELUXE ROOM BBЗАВТРАКИ": "ahead"
 }
