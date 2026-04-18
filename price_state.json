@@ -34,7 +34,7 @@
   "15.05.2026__Risa 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Nagi Beach 3*__PROMO ROOM WITHOUT BALCONY NO VIEW HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.05.2026__Bellazure Hotel 4*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
+  "15.05.2026__Mirada Exclusive Bodrum 5*__STANDART LAND VIEW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "equal",
   "15.05.2026__Casa Nonna Bodrum (ex. Sign by Ersan) (only adults 16+) 5*__DELUXE GARDEN SEAVIEW BBЗАВТРАКИ": "behind",
   "15.05.2026__Mivara Luxury Resort Spa Bodrum 5*__DELUXE KING OR TWIN BED BBЗАВТРАКИ": "ahead",
   "15.05.2026__Hotel Cetro (ex. Costa Centro Bodrum) Boutique__STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -76,7 +76,7 @@
   "15.05.2026__Perdikia Hill Family Resort (ex. Perdikia Hill Resort) 4*__STANDARD ROOM NEW AIВСЕ ВКЛЮЧЕНО": "equal",
   "15.05.2026__Tonoz Beach 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.05.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "15.05.2026__XO Cape Arnna Club (only adults 18+) 5*__POOL SUITE ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "15.05.2026__XO Cape Arnna Club (only adults 18+) 5*__POOL SUITE ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__XO Cape Arnna Resort 5*__FAMILY COMFORT ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "15.05.2026__Mavruka Hotel 3*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
   "15.05.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
@@ -798,7 +798,7 @@
   "20.06.2026__Orsmaris Hotel Boutique__STANDART POOL GARDEN ROOM BBЗАВТРАКИ": "behind",
   "20.06.2026__Verde Hotel (only adults 16+) 4*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.07.2026__Yel Holiday Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "20.07.2026__Majestic Hotel 3*__STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.07.2026__Majestic Hotel 3*__STANDARD ROOM BBЗАВТРАКИ": "equal",
   "20.05.2026__Idas Club 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.06.2026__Charm Beach Hotel 4*__STANDARD  ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.08.2026__Ladonia Hotels Mio Bianco 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -883,7 +883,7 @@
   "20.05.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
   "20.05.2026__Supreme Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.06.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (FAMILY ZONE) ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
-  "20.06.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.06.2026__Katre Hotel Oludeniz (ex. Oz Katre Hotel) 3*__PROMO ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.07.2026__Anda Barut Collection 5*__DELUXE ROOM SEAVIEW (FAMILY ZONE) ULTRA ALLВСЕ ВКЛЮЧЕНО": "alone",
   "20.07.2026__DoubleTree by Hilton Bodrum Isil Club Resort 5*__GUEST CLUB ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Cape Bodrum Beach Resort 4*__DELUXE ROOM BBЗАВТРАКИ": "ahead",
@@ -1196,5 +1196,6 @@
   "20.06.2026__Majestic Hotel 3*__STANDARD ROOM BBЗАВТРАКИ": "equal",
   "20.07.2026__Ramitos Boutique Hotel Special Class -*__DELUXE ROOM FOREST VIEW BBЗАВТРАКИ": "alone",
   "20.06.2026__Marcan Beach Hotel (only adults 16+) 4*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "20.07.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind"
+  "20.07.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.08.2026__Costa Luvi 4*__STANDARD ROOM WITH FRENCH BALCONY AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
