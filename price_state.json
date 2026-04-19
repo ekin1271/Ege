@@ -572,7 +572,7 @@
   "15.08.2026__Idas Club 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Idas Hotel (only adults 16+) 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Ada Julıan Hotel Marmaris (ex. Julian Marmaris) (only adults 14+) 4*__STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
-  "15.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
+  "15.08.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "15.08.2026__Amos Hotel 3*__STANDARD ROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "15.08.2026__Astoria Life Hotel (ex. Astoria Beach Hotel) 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "behind",
   "15.08.2026__Begonville Beach (only adults 16+) 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -598,7 +598,7 @@
   "15.06.2026__Ramada Resort Akbuk 5*__STANDARD LAND VIEW AIВСЕ ВКЛЮЧЕНО": "alone",
   "20.06.2026__Anerissa Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Fortuna Beach Marmaris 4*__SIDE SEAVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.07.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "equal",
+  "15.07.2026__Adler Hotel - Marmaris 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Ambrosia Hotel 5*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.07.2026__Rammos Managed by Dedeman 4*__SUPERIOR GARDENVIEW WITHOUT BALCONY BBЗАВТРАКИ": "ahead",
   "20.07.2026__Bahar Hotel (only adults 12+) 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
@@ -772,7 +772,7 @@
   "20.07.2026__Oludeniz Blu Luxury Unique Hotel 4*__DELUXE ROOM BBЗАВТРАКИ": "alone",
   "20.07.2026__Marcan Resort 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Unver Hotel 3*__LANDVIEW STANDARD ROOM BB BBЗАВТРАКИ": "ahead",
-  "20.07.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
+  "20.07.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Montebello Deluxe  3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Mendos Garden Exclusive 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__Alize 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
@@ -1205,5 +1205,6 @@
   "20.08.2026__Pink Palace 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
   "20.05.2026__XO Cape Arnna Club (only adults 18+) 5*__DELUXE SEA FRONT ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "behind",
   "20.06.2026__Malhun 3*__STANDARD ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
-  "20.06.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIВСЕ ВКЛЮЧЕНО": "ahead"
+  "20.06.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
+  "20.07.2026__Alize 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead"
 }
