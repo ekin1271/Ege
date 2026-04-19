@@ -732,7 +732,7 @@
   "20.05.2026__Susona Bodrum 5*__KING DELUXE ROOM WITH PARTIAL SEAVIEW BBЗАВТРАКИ": "ahead",
   "20.05.2026__Anerissa Hotel 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.05.2026__Serin Hotel 3*__LANDVIEW STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "alone",
-  "20.06.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "behind",
+  "20.06.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.06.2026__Club Hotel Letoonia 5*__BUNGALOW ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
   "20.06.2026__Meri Hotel (ex. Club Meri Hotel) 3*__STANDARD LAND VIEW AI AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Salmakis Resort & Spa 5*__GARDENVIEW STANDARD ROOM ULTRA ALLВСЕ ВКЛЮЧЕНО": "ahead",
@@ -869,7 +869,7 @@
   "20.07.2026__Le Meridien Bodrum Resort 5*__PANAROMA ROOM SEAVIEW BBЗАВТРАКИ": "ahead",
   "15.08.2026__Mare Deluxe Residences & Villas Boutique__DELUXE SUITE SEA VIEW AO AOБЕЗ ПИТАНИЯ": "ahead",
   "20.08.2026__Atrium 3*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
-  "20.08.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "behind",
+  "20.08.2026__Ladonia Hotels Leo Beach Resort (only adults 16+) 3*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.08.2026__The Tower Hotel 3*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "20.08.2026__My Dream Hotel 4*__LANDVIEW STANDARD ROOM BBЗАВТРАКИ": "ahead",
   "15.05.2026__Unver Hotel 3*__STANDARD ROOM HBЗАВТРАКИ И УЖИНЫ": "ahead",
@@ -1207,5 +1207,7 @@
   "20.06.2026__Malhun 3*__STANDARD ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
   "20.06.2026__Meri Hotel (ex. Club Meri Hotel) 3*__PROMO ROOM WITHOUT BALCONY NO VIEW AIВСЕ ВКЛЮЧЕНО": "ahead",
   "20.07.2026__Alize 4*__STANDARD ROOM AIВСЕ ВКЛЮЧЕНО": "ahead",
-  "15.05.2026__Divan Bodrum 5*__STANDARD ROOM BBЗАВТРАКИ": "ahead"
+  "15.05.2026__Divan Bodrum 5*__STANDARD ROOM BBЗАВТРАКИ": "ahead",
+  "20.05.2026__Symbola Oludeniz Beach 3*__STONE SEAVIEW ROOM HB HBЗАВТРАКИ И УЖИНЫ": "ahead",
+  "20.06.2026__Club Hotel Flora 3*__STANDARD ROOM BBЗАВТРАКИ": "alone"
 }
